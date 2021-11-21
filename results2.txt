@@ -1,0 +1,264 @@
+
+Laval  -  58
+
+Thomas Fafard 00:24:28.6 [2, 1]
+Jean-Simon Desgagnes 00:24:30.3 [3, 2]
+Jonathan Tedeschi 00:24:59.2 [11, 3]
+Philippe Morneau-Cartier 00:25:27.1 [19, 4]
+Alexis Lepage 00:25:35.9 [23, 5]
+David Girardin 00:25:37.1 [24, 6]
+Pierre-Yves Normandin 00:26:29.7 [56, 7]
+score 58
+
+
+Guelph  -  63
+
+Mitchell Ubene 00:24:27.5 [1, 1]
+John Perrier 00:24:40.3 [5, 2]
+Nicholas Bannon 00:24:53.4 [9, 3]
+Kalum Delaney 00:25:30.7 [21, 4]
+Adam Schmidt 00:25:43.0 [27, 5]
+Gavin Hughes 00:25:45.1 [31, 6]
+Alec Purnell 00:26:15.2 [48, 7]
+score 63
+
+
+McMaster  -  75
+
+Davies Andrew 00:24:38.9 [4, 1]
+Turek Max 00:24:56.7 [10, 2]
+Tyrrell Ryan 00:25:17.3 [16, 3]
+Drover Alex 00:25:30.3 [20, 4]
+Nusselder Sam 00:25:38.8 [25, 5]
+Ubene Evan 00:26:30.5 [57, 6]
+McGillivray Josh 00:27:20.4 [87, 7]
+score 75
+
+
+UBC  -  101
+
+Thomas Nobbs 00:24:41.4 [6, 1]
+Tyler Dozzi 00:25:07.0 [12, 2]
+Joshua Kozelj 00:25:12.4 [14, 3]
+Spencer Hardy 00:25:30.8 [22, 4]
+Liam Dwyer 00:26:14.5 [47, 5]
+Jacob Wadhwani 00:26:41.3 [66, 6]
+Jonah Brost 00:26:54.9 [73, 7]
+score 101
+
+
+Western  -  177
+
+De Lange 00:25:13.5 [15, 1]
+Marcel Scheele 00:25:22.1 [18, 2]
+Ethan Loucks 00:25:47.6 [34, 3]
+Kyle Koyanagi 00:26:21.5 [50, 4]
+Sam Cumming 00:26:31.3 [60, 5]
+Mark Royce 00:26:39.8 [64, 6]
+score 177
+
+
+Queens  -  187
+
+Mitchell Kirby 00:25:08.1 [13, 1]
+Miles Brackenbury 00:25:56.6 [40, 2]
+Jake Hollinger 00:26:04.9 [41, 3]
+Roman Mironov 00:26:07.0 [42, 4]
+Jude Wheeler-Dee- 00:26:22.3 [51, 5]
+Ben Miske 00:26:48.1 [72, 6]
+score 187
+
+
+Dalhousie  -  209
+
+Will Cox 00:25:43.7 [28, 1]
+Aidan Goslett 00:25:53.7 [37, 2]
+Hudson Grimshaw-Surette 00:25:54.0 [38, 3]
+Nick Robertson 00:26:13.0 [45, 4]
+Daniel Rosen 00:26:34.0 [61, 5]
+Harmon Grimshaw-Surette 00:27:01.6 [76, 6]
+Alec Freeman 00:27:32.1 [89, 7]
+score 209
+
+
+Alberta  -  219
+
+Riley Stuermer 00:25:43.0 [26, 1]
+Benjamin Workman 00:25:46.6 [33, 2]
+Will Cebuliak 00:26:22.8 [52, 3]
+Logan Arthur 00:26:25.6 [53, 4]
+Robert Chauvet 00:26:27.1 [55, 5]
+Cassian Murray-White 00:26:30.9 [58, 6]
+Jason Ushko 00:26:47.4 [70, 7]
+score 219
+
+
+Calgary  -  224
+
+Eric Lutz 00:24:51.0 [8, 1]
+Tyler Kiyonaga 00:25:44.3 [29, 2]
+Robert Mitchell 00:25:48.0 [35, 3]
+Jan Erik-Naess 00:26:45.1 [69, 4]
+David McNish 00:27:11.4 [83, 5]
+Luke Swadling 00:27:41.2 [93, 6]
+Miguel Teran 00:28:35.3 [101, 7]
+score 224
+
+
+McGill  -  240
+
+Matthew Beaudet 00:24:47.5 [7, 1]
+Henry Wellenstein 00:25:52.5 [36, 2]
+Tom Secheyron 00:26:30.9 [59, 3]
+William Davalan 00:26:41.5 [67, 4]
+Jack Stanley 00:26:48.0 [71, 5]
+Noah El-Rimawi-Fine 00:27:09.7 [82, 6]
+Jake McClure 00:28:07.7 [98, 7]
+score 240
+
+
+Victoria  -  245
+
+Brandon Vail 00:25:45.0 [30, 1]
+Jack Boden 00:25:55.2 [39, 2]
+Daniel Damian 00:26:09.6 [43, 3]
+Chet Goerzen 00:26:40.0 [65, 4]
+Gabe Van-Hezewijk 00:26:44.2 [68, 5]
+Benjamin Seshadri 00:27:18.7 [85, 6]
+Anton Kuipers 00:27:19.0 [86, 7]
+score 245
+
+
+Toronto  -  257
+
+Chris Taylor 00:25:20.6 [17, 1]
+Adam Clayton 00:26:11.6 [44, 2]
+Dilan Brar 00:26:26.0 [54, 3]
+Nando Baumann 00:26:35.9 [63, 4]
+Nima Ashtari 00:27:04.1 [79, 5]
+Brandon Raftis 00:27:14.5 [84, 6]
+Ben Shore 00:27:48.4 [94, 7]
+score 257
+
+
+Saskatchewan  -  357
+
+Anthony Antaya 00:26:19.8 [49, 1]
+Treyton Pernitsky 00:26:34.6 [62, 2]
+Dylan Bauman 00:26:55.8 [74, 3]
+Alexander Webster 00:27:07.3 [80, 4]
+Kaiden Deck 00:27:39.2 [92, 5]
+Matthew Finley 00:28:18.8 [100, 6]
+Kaden Nilson 00:28:46.4 [105, 7]
+score 357
+
+
+Montreal  -  387
+
+Thomas Laviolette 00:26:13.7 [46, 1]
+Louis-Olivier Brassard 00:27:01.2 [75, 2]
+Adrien Jean-Pierre 00:27:08.9 [81, 3]
+Selim Gilon 00:27:33.4 [90, 4]
+Emile Garon 00:27:48.9 [95, 5]
+Thibault D'Heilly 00:27:58.2 [97, 6]
+score 387
+
+
+STFX  -  402
+
+Jacob Benoit 00:25:45.3 [32, 1]
+Luc Gallant 00:27:03.7 [78, 2]
+Ben Good 00:27:22.8 [87, 3]
+Joel Gallant 00:28:39.3 [102, 4]
+Aidan Doherty 00:28:41.9 [103, 5]
+Jack Wierzbicki 00:28:43.1 [104, 6]
+score 402
+
+
+Windsor  -  18
+
+Josh Zilles 00:25:20.8 [18, 1]
+score 18
+
+
+StMary's  -  239
+
+Andrew Peverill 00:25:25.7 [20, 1]
+Rory McGarvey 00:27:47.3 [108, 2]
+Teagan Scott 00:27:52.3 [111, 3]
+score 239
+
+
+UNB  -  245
+
+ISAAC CULL 00:26:21.5 [53, 1]
+CHANCE BLACKSTONE 00:27:01.9 [87, 2]
+DAWSON NANCEKIEVILL 00:27:35.3 [105, 3]
+score 245
+
+
+Laurentian  -  58
+
+Keon Wallingford 00:26:26.8 [58, 1]
+score 58
+
+
+Ottawa  -  60
+
+Adrian Fournier 00:26:27.1 [60, 1]
+score 60
+
+
+UBCO  -  61
+
+Connor Baerg 00:26:28.2 [61, 1]
+score 61
+
+
+Sherbrooke  -  181
+
+Paul Molinier 00:26:32.0 [67, 1]
+Frederick Turgeon 00:28:15.8 [114, 2]
+score 181
+
+
+Manitoba  -  274
+
+Justin Kroeker 00:26:43.1 [75, 1]
+Michael Wood 00:27:16.8 [96, 2]
+Calvin Reimer 00:27:32.1 [103, 3]
+score 274
+
+
+Trinity-Western  -  199
+
+Joshua Woolgar 00:26:52.6 [81, 1]
+Ian Sharp 00:28:35.3 [118, 2]
+score 199
+
+
+UQAM  -  185
+
+Zed Roy 00:27:00.5 [84, 1]
+Nick Cherenfant 00:27:31.6 [101, 2]
+score 185
+
+
+UQTR  -  95
+
+Jeremy Courchesne 00:27:15.9 [95, 1]
+score 95
+
+
+UPEI  -  235
+
+Dan Maguire 00:28:20.6 [116, 1]
+Riley Fitzpatrick 00:28:36.9 [119, 2]
+score 235
+
+
+Carleton  -  124
+
+Cameron Bruce 00:30:50.1 [124, 1]
+score 124
+
